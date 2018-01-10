@@ -1,0 +1,17 @@
+HTTP NOTES:
+
+HTTP built ontop of TCP:
+Specific Format
+
+
+An HTTP client sends a request specifying a method and a resource
+[GET/index.html] -> (Server)
+
+
+An HTTP Server reponse with a reposnes body and a status code
+
+(Server) -> [200 OK <html> </html>] -> (client)
+
+
+
+
