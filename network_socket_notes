@@ -1,0 +1,15 @@
+Sockets are the low level endpoint used for processing information across a network
+Common Networking Protocols like HTTP, and FTP rely on sockets to make underneath to make connections 
+
+TCP low level network prot
+HTTP high level network prot
+
+The client socket is created with a socket() call
+And the connected to a remote address with the connect() call
+and finally can retreive data with the recv() call
+
+CLIENT SOCKET SHIT
+socket() -> connect() -> recv()
+
+
+
